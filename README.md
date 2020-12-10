@@ -1,1 +1,1 @@
-# Udacity-Android-Shoe_Store_Inventory
+# Hector_Shoe_Store_Inventory
